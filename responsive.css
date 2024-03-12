@@ -1,0 +1,45 @@
+
+@media(max-width:456px)
+{
+    .maintext button{
+        margin-left: 120px;
+    }
+    .maindishes th{
+        padding-left: 6rem;
+    }
+    .Tandoor th{
+        padding-left: 6rem;
+    }
+    .ice-Cream th{
+        padding-left: 6rem;
+
+    }
+    .menu th{
+        text-align: center;
+    }
+    .landing{
+        padding: 10px;
+    }
+    table{
+        width: 65%;
+    }
+    table th{
+        width: 80%;
+        text-align: center;
+    }
+    .starters img{
+        margin-top: 15px;
+    }
+    .locations div{
+        padding: 1rem ;
+    }
+    header{
+        padding: 10px 20px;
+    }
+    header nav{
+        gap: 10px;
+    }
+    nav a{
+        color:rgb(142, 142, 35);
+    }
+}
